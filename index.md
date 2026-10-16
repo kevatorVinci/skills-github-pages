@@ -1,5 +1,7 @@
 ---
-title: Bienvenue sur mon site !
+title: Le site de Kevin
+author: Kevin Akator-Vinci
+description: Mon premier site avec GitHub Pages
 ---
 
 # Salut, moi c'est Kevin 👋
